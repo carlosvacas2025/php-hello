@@ -1,2 +1,2 @@
 <?php
-echo "Hola món des de PHP!";
+echo "Hola món des de PHP!"; //afegir comentari prova
